@@ -1,0 +1,6 @@
+- 🐕 Hi, I’m K9-Software
+- 🥠 I'ma Lucky Guy
+- 🛡️ I’m interested in Antivirus/Antimalware software
+- 💻 I’m currently learning Batch Code
+- 📫 How to reach me Sonicexegame925@gmail.com
+- 📖 @K9-Software
