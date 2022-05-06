@@ -34,4 +34,4 @@
 <h2>Consent</h2>
 <p>By proceeding to use this website, you hereby acknowledge that you have read this disclaimer in its entirety and hereby consent to this disclaimer and agree to all of its terms. If you do not agree to be bound by the terms of this disclaimer, you are not permitted to continue to use or access this site and its services.</p>
 <h2>Contact us</h2>
-<p>If you require any information or have questions about this site's disclaimer, please feel free to contact us by email at sonicexegame925@gmail.com.</p></body></html>
+<p>If you require any information or have questions about this site's disclaimer, please feel free to contact us by email at vefcinpkjm@gmail.com.</p></body></html>
