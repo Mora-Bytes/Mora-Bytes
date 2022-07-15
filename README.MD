@@ -7,7 +7,7 @@
 - 🛡️ I’m interested in Antivirus/Antimalware software
 - 💻 I’m currently learning Batch Code
 - 📫 How to reach me vefcinpkjm@gmail.com
-- 👁️‍🗨️ My name is Omar Raslan
+- 👁️‍🗨️ My NickName is Mora
 - 📖 @K9-Software
 # Website Disclaimer
 <p>Last updated: 2/23/2022.</p>
