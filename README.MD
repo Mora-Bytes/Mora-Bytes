@@ -5,7 +5,6 @@
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
  width="1135.000000pt" height="547.000000pt" viewBox="0 0 1135.000000 547.000000"
  preserveAspectRatio="xMidYMid meet">
-
 <g transform="translate(0.000000,547.000000) scale(0.100000,-0.100000)"
 fill="#000000" stroke="none">
 <path d="M10 5451 c-7 -14 -10 -882 -10 -2735 l0 -2716 5675 0 5675 0 0 2723
