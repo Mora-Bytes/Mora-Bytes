@@ -73,9 +73,9 @@ m-1418 -8 c6 -7 29 -92 53 -188 24 -96 45 -179 48 -184 3 -5 30 78 61 185 54
 36 c-14 86 -90 136 -171 113z"/>
 </g>
 </svg>
-<p>- 🐕 Hi, I’m K9-Software</p>
+<p>- 🐕 Hi, I’m Mora of K9-Software</p>
+<p>- 👁️‍🗨️ Mora is my Nickname</p>
 <p>- 🥠 I'ma Lucky Guy</p>
-<p>-  I’m interested in Antivirus/Antimalware software</p>
-<p>- 💻 I’m currently learning Batch Code</p>
-<p>- 📫 How to reach me vefcinpkjm@gmail.com</p>
-<p>- 👁️‍🗨️ My NickName is Mora</p>
+<p>- 🔐 I’m interested in Antivirus/Antimalware software and/or tools</p>
+<p>- 💻 I’m currently learning Python</p>
+<p>- 📫 Reach me at K9-SoftwareLLC@proton.me</p>
