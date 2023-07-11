@@ -1,4 +1,3 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
  "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
@@ -78,4 +77,4 @@ m-1418 -8 c6 -7 29 -92 53 -188 24 -96 45 -179 48 -184 3 -5 30 78 61 185 54
 <p>- 🥠 I'ma Lucky Guy</p>
 <p>- 🔐 I’m interested in Antivirus/Antimalware software and/or tools</p>
 <p>- 💻 I’m currently learning Python</p>
-<p>- 📫 Reach me at K9-SoftwareLLC@proton.me</p>
+<p>- 📫 Reach me at MoraByte@Skiff.com</p>
